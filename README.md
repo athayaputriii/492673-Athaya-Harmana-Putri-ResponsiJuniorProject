@@ -4,4 +4,4 @@ Athaya Harmana Putri
 
 Gambar ERD
 
-![alt_text](https://github.com/athayaputriii/492673-Athaya-Harmana-Putri-ResponsiJuniorProject/blob/master/Screenshot%202024-12-02%20084755.png?raw=true)
+![alt_text](https://github.com/athayaputriii/492673-Athaya-Harmana-Putri-ResponsiJuniorProject/blob/master/Screenshot%202024-12-02%20093756.png?raw=true)
